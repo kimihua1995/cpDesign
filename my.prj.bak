@@ -1,0 +1,170 @@
+33 Patch Control
+
+0
+0
+1
+
+53
+5
+4
+
+cpDesign_fun.R
+R
+1049586 0 705 46 749 1 0 0 1888 407 0 0 30 520 -1 -1 0 0 -1 -1 -1 -1 1 0 1 749  0 0 0
+get_Tables.R
+R
+1049586 0 12 13 12 17 64 64 1952 471 0 0 254 234 -1 -1 0 0 -1 -1 -1 -1 1 0 17 12  0 0 0
+get_Fig1.R
+R
+1049586 0 0 1 43 1 0 0 1888 407 0 0 30 234 -1 -1 0 0 -1 -1 -1 -1 1 0 1 43  0 0 0
+get_FigS1.R
+R
+1049586 0 0 1 32 26 32 32 1920 439 0 0 380 78 -1 -1 0 0 -1 -1 -1 -1 1 0 26 32  0 0 0
+cpDesign_application.R
+R
+269485042 0 59 15 56 46 96 96 1984 503 0 0 660 338 -1 -1 0 0 -1 -1 -1 -1 1 0 46 56  0 0 0
+:\Users\wang0075\Desktop\AHR\figS1_20221206.R
+R
+269485042 1 86 1 9 1 96 96 1952 545 0 0 30 234 -1 -1 0 0 30 0 0 30 1 0 1 9  0 0 0
+:\Users\wang0075\Desktop\AHR\cpDesign_fun_20230212.R
+R
+269485042 0 701 46 707 35 0 0 1942 547 0 0 506 338 -1 -1 0 0 80 70 70 80 1 0 35 707  0 0 0
+:\Users\wang0075\Desktop\AHR\revision\tmp.R
+R
+1049586 0 14 10 0 5 32 32 1920 439 0 0 86 0 -1 -1 0 0 -1 -1 -1 -1 1 0 5 0  0 0 0
+:\Users\wang0075\Desktop\AHR\revision\cpDesign20230210_CT.tex
+TeX:UNIX
+1159163 0 -1 32809 -1 27905 32 32 1888 481 0 1 822 104 -1 -1 0 0 49 -1 -1 49 1 0 27905 -1  0 -1 0
+:\Users\wang0075\Desktop\AHR\revision\cpDesign_appendix20230210.tex
+TeX:UNIX
+1159163 0 -1 1721 -1 0 160 160 2016 609 0 1 52 0 -1 -1 0 0 49 -1 -1 49 1 0 0 -1  0 -1 0
+:\Users\wang0075\Desktop\AHR\Table4_20230212.R
+R
+1049586 0 0 1 31 37 32 32 1920 390 0 0 534 312 -1 -1 0 0 30 0 0 30 1 0 37 31  0 0 0
+:\Users\wang0075\Desktop\AHR\Table3_20230212.R
+R
+1049586 0 0 1 56 1 64 64 1920 535 0 0 30 260 -1 -1 0 0 30 0 0 30 1 0 1 56  0 0 0
+:\Users\wang0075\Desktop\AHR\Table2.R
+R
+1049586 0 0 1 58 34 160 160 2048 531 0 0 492 364 -1 -1 0 0 30 0 0 30 1 0 34 58  0 0 0
+:\Users\wang0075\Desktop\AHR\run.R
+R
+1049586 0 4 78 9 27 0 273 2048 547 0 0 394 234 -1 -1 0 0 1 22 22 1 1 0 27 9  0 0 0
+:\Users\wang0075\Desktop\AHR\revision\diff.tex
+TeX
+269496315 0 -1 41763 -1 42308 96 96 1952 545 0 1 500 312 -1 -1 0 0 44572 -1 -1 44572 1 0 42308 -1  0 -1 0
+:\Users\wang0075\Desktop\AHR\Table4_20230207.R
+R
+269485042 0 0 1 44 1 32 32 1920 390 0 0 30 598 -1 -1 0 0 30 0 0 30 1 0 1 44  0 0 0
+:\Users\wang0075\Desktop\AHR\CP_FutilityRule_AHR.R
+R
+269485042 0 98 39 106 1 64 64 1920 535 0 0 30 702 -1 -1 0 0 30 0 0 30 1 0 1 106  0 0 0
+:\Users\wang0075\Desktop\AHR\cpDesign_application_v2.R
+R
+269485042 0 8 34 42 11 224 224 2016 738 0 0 170 390 -1 -1 0 0 28 0 0 28 1 0 11 42  0 0 0
+:\Users\wang0075\Desktop\AHR\revision\fig2_20221216.tex
+TeX:UNIX
+286371835 0 -1 831 -1 246 192 192 2048 641 0 1 878 26 -1 -1 0 0 73 -1 -1 73 1 0 246 -1  0 -1 0
+:\Users\wang0075\Desktop\AHR\fig1_20221206.R
+R
+269485042 0 8 1 5 19 96 96 1984 471 0 0 282 104 -1 -1 0 0 30 0 0 30 1 0 19 5  0 0 0
+:\Users\wang0075\Desktop\AHR\Table3_20230211.R
+R
+269485042 1 0 1 87 1 64 64 1920 535 0 0 30 676 -1 -1 0 0 30 0 0 30 1 0 1 87  0 0 0
+:\Users\wang0075\Desktop\AHR\cpDesign_fun_20230211.R
+R
+269485042 0 610 87 623 7 0 0 1942 547 0 0 114 416 -1 -1 0 0 80 125 125 80 1 0 7 623  0 0 0
+:\Users\wang0075\Desktop\AHR\Table3_20230207.R
+R
+269485042 1 95 1 96 1 64 64 1920 535 0 0 30 442 -1 -1 0 0 30 0 0 30 1 0 1 96  0 0 0
+:\Users\wang0075\Desktop\AHR\revision\cpDesign20221216_CT.tex
+TeX:UNIX
+269594619 0 -1 35533 -1 36625 32 32 1888 481 0 1 528 676 -1 -1 0 0 49 -1 -1 49 1 0 36625 -1  0 -1 0
+:\Users\wang0075\Desktop\AHR\cpDesign_fun_20220209.R
+R
+269485042 0 827 1 833 35 0 0 1942 547 0 0 506 650 -1 -1 0 0 80 125 125 80 1 0 35 833  0 0 0
+:\Users\wang0075\Desktop\AHR\revision\cpDesign_appendix20221216.tex
+TeX:UNIX
+269594619 0 -1 6587 -1 6474 160 160 2016 609 0 1 52 52 -1 -1 0 0 49 -1 -1 49 1 0 6474 -1  0 -1 0
+:\Users\wang0075\Desktop\AHR\revision\cpDesign20220908_CT.tex
+TeX:UNIX
+269594619 0 -1 35029 -1 34734 32 32 1888 481 0 1 52 26 -1 -1 0 0 49 -1 -1 49 1 0 34734 -1  0 -1 0
+:\Users\wang0075\Desktop\AHR\revision\cpDesign20220908_CT.compared.tex
+TeX:UNIX
+269594619 0 -1 26443 -1 27282 32 32 1888 481 0 1 444 390 -1 -1 0 0 49 -1 -1 49 1 0 27282 -1  0 -1 0
+:\Users\wang0075\Desktop\AHR\revision\Makefile
+DATA:UNIX
+273776882 0 4 11 6 1 32 32 1888 481 1 0 114 156 -1 -1 0 0 4 0 0 4 1 0 1 6  0 0 0
+:\Users\wang0075\Desktop\AHR\table4_20220815.R
+R
+269485042 0 0 1 0 1 32 32 1920 390 0 0 30 0 -1 -1 0 0 -1 -1 -1 -1 1 0 1 0  0 0 0
+:\Users\wang0075\Desktop\AHR\revision\test.R
+R
+269485042 0 7 1 5 37 128 128 1952 626 0 0 534 130 -1 -1 0 0 18 0 0 18 1 0 37 5  0 0 0
+:\Users\wang0075\Desktop\AHR\cpDesign_fun_20230204.R
+R
+269485042 0 33 1 22 3 0 0 1942 547 0 0 58 260 -1 -1 0 0 80 122 122 80 1 0 3 22  0 0 0
+:\Users\wang0075\Desktop\AHR\revision\cpDesign_appendix20220908.tex
+TeX:UNIX
+269594619 0 -1 333 -1 639 128 128 2016 503 0 1 52 -156 -1 -1 0 0 -1 -1 -1 -1 1 0 639 -1  0 -1 0
+:\Users\wang0075\Desktop\AHR\revision\test.tex
+TeX
+269496315 0 -1 0 -1 45135 0 0 1856 449 0 1 262 589 -1 -1 0 0 49 -1 -1 49 1 0 45135 -1  0 -1 0
+:\Users\wang0075\Desktop\AHR\futility_stopping_under_NPH\cpDesign20220908_CT.tex
+TeX:UNIX
+269594619 0 -1 671 -1 1011 192 192 2048 641 0 1 192 364 -1 -1 0 0 49 -1 -1 49 1 0 1011 -1  0 -1 0
+:\Users\wang0075\Desktop\AHR\tmp.tex
+TeX
+269496315 2 -1 1374 -1 1376 192 192 2048 641 0 1 234 182 -1 -1 0 0 -1 -1 -1 -1 1 0 1376 -1  0 0 0
+:\Users\wang0075\Desktop\AHR\table3_full.R
+R
+269485042 0 39 5 4 17 64 64 1920 535 0 0 254 -1595 -1 -1 0 0 30 0 0 30 1 0 17 4  0 0 0
+:\Users\wang0075\Desktop\AHR\table3_full_AHR0.6.R
+R
+269485042 0 44 13 14 3 64 64 1920 535 0 0 58 156 -1 -1 0 0 30 0 0 30 1 0 3 14  0 0 0
+:\Users\wang0075\Desktop\AHR\fig1_20220209.R
+R
+269485042 0 54 17 50 43 32 32 1888 503 0 0 618 312 -1 -1 0 0 30 0 0 30 1 0 43 50  0 0 0
+:\Users\wang0075\Desktop\AHR\table3_20220209.R
+R
+269485042 0 5 1 38 1 32 32 1888 488 0 0 30 520 -1 -1 0 0 30 0 0 30 1 0 1 38  0 0 0
+:\Users\wang0075\Desktop\AHR\table4_20220209.R
+R
+269485042 0 0 1 21 13 128 128 1984 584 0 0 198 234 -1 -1 0 0 30 0 0 30 1 0 13 21  0 0 0
+:\Users\wang0075\Desktop\DBB708\Old DBB708  Courses\DBB708_2022Spring\lectures\lecture11_SS3\lecture11.Rmd
+DATA
+273678578 0 409 1 435 47 32 32 1888 503 1 0 758 338 -1 -1 0 0 -1 -1 -1 -1 1 0 47 435  0 0 0
+:\Users\wang0075\Desktop\AHR\compare_two_power_formulas.R
+R
+269485042 0 0 1 0 1 96 96 1952 552 0 0 30 0 -1 -1 0 0 30 0 0 30 1 0 1 0  0 0 0
+:\Users\wang0075\Desktop\AHR\simulation\sim_wald (2).R
+R:UNIX
+269583346 0 179 50 172 25 32 32 1888 488 0 0 366 26 -1 -1 0 0 30 0 0 30 1 0 25 172  0 0 0
+:\Users\wang0075\Desktop\AHR\EFtable1.R
+R
+269485042 0 7 25 28 19 128 128 1984 534 0 0 282 78 -1 -1 0 0 30 0 0 30 1 0 19 28  0 0 0
+:\Users\wang0075\WinEdt Team\WinEdt 10\Exec\PDF\PDFCloseDoc.edt
+ASCII:EDT
+269494138 7 52 1 51 1 32 32 1920 411 1 0 87 252 -1 -1 0 0 21 0 0 21 1 0 1 51  0 0 0
+:\Users\wang0075\Desktop\AHR\my.prj
+DATA
+273678578 0 0 1 0 1 96 96 1984 483 1 0 114 0 -1 -1 0 0 17 0 0 17 1 0 1 0  0 0 0
+:\Users\wang0075\Desktop\DukeB&B\my CV\xiaofei_unpublished.bib
+BibTeX
+269485042 0 6 1 15 36 128 128 2016 515 0 1 542 390 -1 -1 0 0 27 0 0 27 1 0 36 15  0 -1 0
+:\Users\wang0075\Desktop\DukeB&B\my CV\xiaofei_published.bib
+BibTeX
+269485042 2 371 11 371 14 160 160 2048 547 0 1 234 182 -1 -1 0 0 24 0 0 24 1 0 14 371  0 -1 0
+:\Users\wang0075\Desktop\AHR\AHR2.Rmd
+DATA
+273678578 0 2 1 5 8 96 96 1984 483 1 0 212 130 -1 -1 0 0 4 0 0 4 1 0 8 5  0 0 0
+:\Users\wang0075\Desktop\DukeB&B\my CV\xiaofei_wang_duke_cv_20211012.tex
+TeX
+269496315 0 -1 0 -1 1109 96 96 1984 483 0 1 388 104 -1 -1 0 0 -1 -1 -1 -1 1 0 1109 -1  0 -1 0
+:\Users\wang0075\Desktop\DukeB&B\my CV\xiaofei_wang_duke_cv_202109014.tex
+TeX
+269496315 0 -1 0 -1 0 96 96 1984 483 0 1 52 0 -1 -1 0 0 -1 -1 -1 -1 1 0 0 -1  0 -1 0
+:\Users\wang0075\Desktop\AHR\AHR.R
+R
+269485042 0 36 11 27 9 32 32 1920 419 0 0 142 0 -1 -1 0 0 18 0 0 18 1 0 9 27  0 0 0
+
